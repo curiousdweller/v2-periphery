@@ -1,6 +1,8 @@
 pragma solidity >=0.5.0;
 
 import '../coreInterfaces/IUniswapV2Pair.sol';
+import '../coreInterfaces/IUniswapV2Factory.sol';
+
 
 import "./SafeMath.sol";
 
